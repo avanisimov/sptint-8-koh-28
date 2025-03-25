@@ -54,99 +54,99 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 startActivity(Intent(this@MainActivity, MainActivity::class.java))
             }
             R.id.button_1 -> {
-               handlesdsdf()
+//               handlesdsdf()
             }
             R.id.button_1 -> {
 
-                supportFragmentManagersdf
-                setTaskDescription(getFileStreamPath(deleteFile(sdf
-                        sd
-                        fun sd
-                // FIXME: sd f
-                //  sdf
-                //  sd
-                //  f
-                //  sdf
-                //  s
-                //  df
-                //  sdf
-                //  sd
-                //  f
-                //  sd
-                //  f
-                //
-                //  sd
-                //  f
-                //  sdf)))
+//                supportFragmentManagersdf
+//                setTaskDescription(getFileStreamPath(deleteFile(sdf
+//                        sd
+//                        fun sd
+//                // FIXME: sd f
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sdf
+//                //  s
+//                //  df
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sd
+//                //  f
+//                //
+//                //  sd
+//                //  f
+//                //  sdf)))
             }
             R.id.button_1 -> {
 
-                supportFragmentManagersdf
-                setTaskDescription(getFileStreamPath(deleteFile(sdf
-                        sd
-                        fun sd
-                // FIXME: sd f
-                //  sdf
-                //  sd
-                //  f
-                //  sdf
-                //  s
-                //  df
-                //  sdf
-                //  sd
-                //  f
-                //  sd
-                //  f
-                //
-                //  sd
-                //  f
-                //  sdf)))
+//                supportFragmentManagersdf
+//                setTaskDescription(getFileStreamPath(deleteFile(sdf
+//                        sd
+//                        fun sd
+//                // FIXME: sd f
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sdf
+//                //  s
+//                //  df
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sd
+//                //  f
+//                //
+//                //  sd
+//                //  f
+//                //  sdf)))
             }
             R.id.button_1 -> {
 
-                supportFragmentManagersdf
-                setTaskDescription(getFileStreamPath(deleteFile(sdf
-                        sd
-                        fun sd
-                // FIXME: sd f
-                //  sdf
-                //  sd
-                //  f
-                //  sdf
-                //  s
-                //  df
-                //  sdf
-                //  sd
-                //  f
-                //  sd
-                //  f
-                //
-                //  sd
-                //  f
-                //  sdf)))
+//                supportFragmentManagersdf
+//                setTaskDescription(getFileStreamPath(deleteFile(sdf
+//                        sd
+//                        fun sd
+//                // FIXME: sd f
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sdf
+//                //  s
+//                //  df
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sd
+//                //  f
+//                //
+//                //  sd
+//                //  f
+//                //  sdf)))
             }
             R.id.button_1 -> {
 
-                supportFragmentManagersdf
-                setTaskDescription(getFileStreamPath(deleteFile(sdf
-                        sd
-                        fun sd
-                // FIXME: sd f
-                //  sdf
-                //  sd
-                //  f
-                //  sdf
-                //  s
-                //  df
-                //  sdf
-                //  sd
-                //  f
-                //  sd
-                //  f
-                //
-                //  sd
-                //  f
-                //  sdf)))
+//                supportFragmentManagersdf
+//                setTaskDescription(getFileStreamPath(deleteFile(sdf
+//                        sd
+//                        fun sd
+//                // FIXME: sd f
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sdf
+//                //  s
+//                //  df
+//                //  sdf
+//                //  sd
+//                //  f
+//                //  sd
+//                //  f
+//                //
+//                //  sd
+//                //  f
+//                //  sdf)))
             }
             R.id.button_1 -> {
 
